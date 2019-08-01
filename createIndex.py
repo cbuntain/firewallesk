@@ -14,10 +14,10 @@ index_info = {
         "type": "ip"
       },
       "source_port": {
-        "type": "short"
+        "type": "integer"
       },
       "destination_port": {
-        "type": "short"
+        "type": "integer"
       },
       "date_time": {
         "type": "date",
